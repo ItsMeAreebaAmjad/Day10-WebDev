@@ -1,0 +1,110 @@
+img{
+    height:400px;
+    width:400px;
+    border-radius: 10px;
+    margin-left: 280px;
+    margin-top: 10px;
+}
+
+#two{
+    height:400px;
+    width:400px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;   
+}
+
+h1{
+    margin-left: 280px;
+    font-size: 60px;
+}
+
+p{
+    margin-left: 280px;
+    font-size: 20px;
+}
+
+.divTwo{
+    height:250px;
+    width:900px;
+    background-color: rgb(247, 209, 214);
+    margin-left: 280px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+.divTwo h2{
+    color: black;
+    padding-top: 50px;
+    padding-left:30px;
+}
+
+.divTwo ul li{
+    font-size: 20px;
+}
+
+.divThree{
+   width:100%; 
+}
+
+.divThree h2{
+    color:brown;
+    font-size: 50px;
+    padding-left: 280px;
+}
+
+.divThree ul{
+    padding-left: 280px;
+}
+.divThree ul li{
+    font-size: 20px;
+}
+
+hr{
+    width:50%;
+}
+
+.divFour{
+    width:100%; 
+}
+
+.divFour h2{
+    color:brown;
+    font-size: 50px;
+    padding-left: 280px;
+}
+
+.divFour ol{
+    padding-left: 280px;
+}
+
+.divFour ol li{
+    font-size: 20px;
+}
+
+.divFive{
+    width:100%;  
+}
+
+.divFive h2{
+    color:brown;
+    font-size: 50px;
+    padding-left: 280px;
+}
+
+.divFive p{
+    color:rgb(49, 47, 47);
+}
+
+#hOne{
+    color:rgb(49, 47, 47);
+    padding-left: 300px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+/* #hTwo{
+    color:rgb(49, 47, 47);
+    padding-left: 700px;
+    padding-top: -800px;
+} */
